@@ -1,5 +1,5 @@
 {
-    "token": "Your Bot Token",
+    "token": "Your Token",
     "prefix": "/",
     "botChannel": "Your ID Channel Example: 950120845639024690"
   }

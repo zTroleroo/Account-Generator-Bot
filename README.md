@@ -7,9 +7,3 @@ Accounts can be added Manually or via /add Command
 If you have any Questions feel free to Contact me!
 
 Issues? My Discord: zTroleroo#6923
-
-![Help Embed](pic1.png)
-
-![Message 1](pic2.png)
-
-![Message 1](pic3.png)
